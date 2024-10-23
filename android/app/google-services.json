@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203421370661",
+    "project_id": "lab4-b28b2",
+    "storage_bucket": "lab4-b28b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203421370661:android:ba7c232afd5d8d3bd4b2cc",
+        "android_client_info": {
+          "package_name": "com.lab4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFMkKJzbyHrzEQDWisddjOkE_Gl0D8oLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
